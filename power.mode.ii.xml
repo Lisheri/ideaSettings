@@ -1,0 +1,14 @@
+<application>
+  <component name="PowerModeII">
+    <option name="blueFrom" value="120" />
+    <option name="blueTo" value="229" />
+    <option name="enabled" value="false" />
+    <option name="flamesEnabled" value="false" />
+    <option name="greenFrom" value="196" />
+    <option name="greenTo" value="196" />
+    <option name="isCaretAction" value="true" />
+    <option name="redFrom" value="97" />
+    <option name="sparkCount" value="5" />
+    <option name="sparkSize" value="4" />
+  </component>
+</application>
